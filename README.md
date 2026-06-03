@@ -2344,6 +2344,8 @@ free or mock data apis for demos
   - https://github.com/public-apis/public-apis
     - https://github.com/public-api-lists/public-api-lists
   - https://public-apis.io/ (A Directory of Free Public & Open Rest APIs)
+  - <a href="https://x.com/itsjessyin/status/2061912254950363601/photo/1"><img width="2320" height="1228" alt="image" src="https://github.com/user-attachments/assets/91ae2355-7415-426b-a9e2-30140e2be582" /></a>
+
   - https://github.com/Marak/faker.js - generate fake pdf https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
   - https://github.com/Rolstenhouse/unofficial-apis
   - https://devresourc.es/tools-and-utilities/public-apis
